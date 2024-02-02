@@ -1,4 +1,4 @@
-# Bad Time Simulator (Sans Fight)
+# Bad Time Simulator (Sans Fight, thebeans140 clone)
 This project is a clone of the sans fight from [Undertale](http://undertale.com/).
 It was made with [Construct 2](https://www.scirra.com/construct2).
 
